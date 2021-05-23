@@ -24,3 +24,7 @@ npm install --save-dev lint-staged
 /** Not necessary. */
 npm install eslint -g -D
 eslint --init
+
+
+php artisan serve
+npm run watch
